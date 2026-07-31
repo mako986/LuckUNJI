@@ -1,5 +1,11 @@
 # Luck Unji Edition Unlocked
 
+**Download:** You need to download two files, **LuckUnji.msi** and **cab1.cab**, and run the installer.
+
+**Error:** If **cab1.cab** is missing, the installer will crash with an error stating that the file cannot be found.
+
+---
+
 A powerful, high-performance system recovery, hardware management, and diagnostic tool built in C# using the `Terminal.Gui` library for terminal-based graphical interfaces (TUI). Designed to bypass restrictions, repair critical Windows components, and monitor system resources in real-time.
 
 ---
